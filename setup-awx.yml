@@ -1,4 +1,4 @@
- hosts: awx
+- hosts: awx
   become: yes
   user: adminlx
   gather_facts: no
